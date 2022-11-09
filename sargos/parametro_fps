@@ -1,4 +1,0 @@
-se ha establacido en el parámetro --video_fps 1.1 y un --aabb_scale 2, lo que sacó 20 imágenes usando 5.1 gb de memoria de la GPU.
-
-Parece muy determinante el parámetro --aabb_scale a la hora de usar la memoria, no se pudo subir de 2.
-
